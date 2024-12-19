@@ -2,7 +2,7 @@ Hi There,
 
 I'm Ben, a Senior Solutions Engineer working at a Census where I focus on helping enterprise clients solve complex MDM, CDP, and AI challenges.
 
-At the moment, I am focused on developing Generative AI Applications to deepen my understanding of the ever-evolving world of Artificial Intellience, as it is clearly the future of the tech industry and world.
+At the moment, I am focused on developing Generative AI Applications to deepen my understanding of the ever-evolving world of Artificial Intellience, as it is clearly the future of the tech industry and world.  Over the next several months, I will be publishing different projects that I am working on.
 
 How to reach me:
 - Email: ben.wiley14@gmail.com
