@@ -8,7 +8,7 @@ How to reach me:
 - Email: ben.wiley14@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ben-wiley-b52716b7/
 
-Don't hesitate to reach out!
+Please don't hesitate to reach out!
 
 
 -------------
